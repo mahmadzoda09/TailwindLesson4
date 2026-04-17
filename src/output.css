@@ -204,6 +204,9 @@
   .justify-between {
     justify-content: space-between;
   }
+  .gap-\[5\] {
+    gap: 5;
+  }
   .gap-\[10px\] {
     gap: 10px;
   }
@@ -218,6 +221,9 @@
   }
   .gap-\[50px\] {
     gap: 50px;
+  }
+  .gap-\[75px\] {
+    gap: 75px;
   }
   .gap-\[100px\] {
     gap: 100px;
@@ -287,6 +293,9 @@
   .text-center {
     text-align: center;
   }
+  .text-\[16px\] {
+    font-size: 16px;
+  }
   .text-\[18px\] {
     font-size: 18px;
   }
@@ -298,6 +307,9 @@
   }
   .text-\[36px\] {
     font-size: 36px;
+  }
+  .text-\[50px\] {
+    font-size: 50px;
   }
   .font-black {
     --tw-font-weight: var(--font-weight-black);
@@ -322,6 +334,9 @@
   }
   .text-\[\#E4E4E4\] {
     color: #E4E4E4;
+  }
+  .text-\[\#\] {
+    color: #;
   }
   .text-white {
     color: var(--color-white);
